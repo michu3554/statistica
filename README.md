@@ -1,1 +1,1 @@
-# statistica
+# Zadania ze statystyki
